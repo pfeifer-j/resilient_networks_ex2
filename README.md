@@ -1,20 +1,14 @@
 # Resilient Networks: Network Design with IBM ILOG CPLEX Optimization Studio: Exercise Sheet 2
 
-## Overview
-This exercise sheet is part of the Resilient Networks course, aiming to recapitulate the lecture on graph theory and apply this knowledge to real-world graphs. Students are encouraged to familiarize themselves with established metrics and techniques to describe a given network graph.
-
 ## Instructors
 - Prof. Dr. Mathias Fischer
 - August See
 
 ## Overview
-Welcome to Exercise Sheet 2 of the Network Design course. This exercise provides practical experience with an optimization tool, specifically the IBM ILOG CPLEX Optimization Studio. The goal is to solve various network design problems, applying optimization techniques covered in the lecture.
+This exercise provides practical experience with an optimization tool, specifically the IBM ILOG CPLEX Optimization Studio. The goal is to solve various network design problems, applying optimization techniques covered in the lecture.
 
 ## Tool
-The task requires you to use the IBM ILOG CPLEX Optimization Studio, available for free at the IBM website for students and academics. Register with a university email address, download the tool (version 12.8), and explore its capabilities.
-
-## Submission Guidelines
-Submit your solution as a PDF document, describing your results and providing the code that solves the tasks. Ensure documentation covers your approach, methodology, and results, including figures, tables, and examples.
+IBM ILOG CPLEX Optimization Studio
 
 ## Tasks Overview
 ### 1. Loading an Example Project
