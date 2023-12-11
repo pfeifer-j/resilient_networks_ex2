@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config category="opl" default="true" name="Konfiguration 1">
+			<ref name="min-link-cost.mod" type="model">
+			</ref>
+			<ref name="min-link-cost.dat" type="data">
+			</ref>
+			<ref name="min-link-cost.ops" type="setting">
+			</ref>
+		</config>
+	</configs>
+	
+</project>

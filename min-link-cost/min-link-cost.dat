@@ -1,0 +1,41 @@
+/*********************************************
+ * OPL 12.6.3.0 Data
+ * Author: mathias
+ * Creation Date: 26.11.2016 at 15:23:02
+ *********************************************/
+
+//----------------------------------
+// Indices
+//----------------------------------
+
+// d=1,2,...D demands
+nbdemands = 3;
+// number of candidate paths per demand d
+candidate_paths = [1,2,2];
+
+nbpaths = 5;
+
+// e=1,2,...,E links
+nblinks = 5;
+
+//----------------------------------
+// Constants
+//----------------------------------
+
+// Delta_edp
+// Ḿapping between links e (rows) and paths P_dp (columns)
+delta = [
+[0,0,0,1,0],
+[1,0,0,0,1],
+[0,0,1,0,1],
+[1,0,1,0,0],
+[0,1,0,0,0]
+];
+
+// Demand volume h
+h = [15, 20, 10];
+
+// Marginal (unit) cost of link e
+theta = [2, 1, 1, 3, 1];
+
+maxSize=10000;
